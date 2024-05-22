@@ -28,5 +28,5 @@ Carrier Scraper is a Python application that scrapes information about mobile ca
 You can install the required libraries using `pip`:
 ```bash
 pip install requests beautifulsoup4
-
+```bash
 Enjoy using Crawler-Carriers! 🚀
